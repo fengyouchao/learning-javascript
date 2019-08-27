@@ -10,7 +10,7 @@
 
 ## 版权
 
-任何人可以从我的[Github](https://github.com/fengyouchao/learning-javascript)仓库免费阅读学习本教程，但是没有本人明确书面授权，不得将本教程复制，修改，重新发布任何平台。如果你想分享本教程，你可以将本教程的链接发给的朋友
+任何人可以从我的[Github](https://github.com/fengyouchao/learning-javascript)仓库免费阅读学习本教程，但是没有本人明确书面授权，不得将本教程复制，修改，重新发布到任何平台。如果你想分享本教程，你可以将本教程的链接直接发给你的朋友。
 
 ## 目录
 
